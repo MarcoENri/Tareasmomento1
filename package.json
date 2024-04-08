@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "practica1",
+=======
+  "name": "ejercicio2",
+>>>>>>> 5bc305c762ac253468c7088682a3fa3b5f408bf8
   "private": true,
   "version": "0.0.0",
   "type": "module",
